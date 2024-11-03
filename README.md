@@ -1,5 +1,6 @@
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-black.svg)](https://www.hameldesai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamel-d-650232122/) 
 
 # 💻 Tech Stack:
